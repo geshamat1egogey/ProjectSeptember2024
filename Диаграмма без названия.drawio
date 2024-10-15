@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" modified="2024-10-15T20:32:35.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" etag="pi5f7ySQymfijZYCvTSh" version="21.8.2" type="device">
+  <diagram name="Страница 1" id="Tn99eOkTTJrvnzlQpPYF">
+    <mxGraphModel dx="1085" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-1" target="y4CcdwK1j66yPGYbsRY_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-1" value="inp()" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-2" target="y4CcdwK1j66yPGYbsRY_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-2" value="Ввод в &lt;br&gt;переменную t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-4" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-6" target="y4CcdwK1j66yPGYbsRY_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-6" value="Возвращение значения t" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-9" value="Функция ввода&lt;br&gt;данных" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="158" y="39" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-11" target="y4CcdwK1j66yPGYbsRY_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-11" value="outp(x, y)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-13" target="y4CcdwK1j66yPGYbsRY_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-13" value="Вывод &lt;br&gt;переменных &lt;br&gt;x и y" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-14" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-17" value="Функция вывода&lt;br&gt;данных с &lt;br&gt;целочисленными &lt;br&gt;параметрами" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="415" y="12" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-1" target="y4CcdwK1j66yPGYbsRY_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-11" target="y4CcdwK1j66yPGYbsRY_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-23" target="y4CcdwK1j66yPGYbsRY_-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-23" value="funcS(x, y)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="30" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-26" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-28" target="y4CcdwK1j66yPGYbsRY_-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-28" value="Инициализция целочисленной&lt;br&gt;переменнной s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-29" value="Первая функция&lt;br&gt;подсчёта с &lt;br&gt;целочисленными&lt;br&gt;параметрами x и y" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="677" y="26" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-23" target="y4CcdwK1j66yPGYbsRY_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-32" target="y4CcdwK1j66yPGYbsRY_-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-32" value="Присвоение s значения log(cos(x))/log(1+x^2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-35" target="y4CcdwK1j66yPGYbsRY_-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-35" value="Возвращение значения t" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="538" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-39" target="y4CcdwK1j66yPGYbsRY_-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-39" value="funcF(x, y, f)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="484" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-40" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="770" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-42" target="y4CcdwK1j66yPGYbsRY_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-42" value="Инициализция целочисленной&lt;br&gt;переменнной f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="564" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-43" value="Вторая функция&lt;br&gt;подсчёта с &lt;br&gt;целочисленными&lt;br&gt;параметрами x , y и &lt;br&gt;адресом переменной f" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="159" y="472" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-39" target="y4CcdwK1j66yPGYbsRY_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-46" target="y4CcdwK1j66yPGYbsRY_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-46" value="Присвоение f значения ((x+1)/(x-1))^x + 18*x*y^2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-51" target="y4CcdwK1j66yPGYbsRY_-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-51" value="funcSF(x, y, s, f)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="484" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-52" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="870" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-54" target="y4CcdwK1j66yPGYbsRY_-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-54" value="Инициализция целочисленной&lt;br&gt;переменнной s и f" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="564" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-55" value="Третья функция&lt;br&gt;подсчёта с &lt;br&gt;целочисленными&lt;br&gt;параметрами x , y, &lt;br&gt;адресом переменной s и &lt;br&gt;адресом переменной f" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="469.5" y="468" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-51" target="y4CcdwK1j66yPGYbsRY_-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-58" target="y4CcdwK1j66yPGYbsRY_-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-58" value="Присвоение f значения ((x+1)/(x-1))^x + 18*x*y^2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y4CcdwK1j66yPGYbsRY_-59" target="y4CcdwK1j66yPGYbsRY_-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y4CcdwK1j66yPGYbsRY_-59" value="Присвоение s значения log(cos(x))/log(1+x^2)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330.5" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,4 +1,5 @@
 import Module
+
 print("Введите x:")
 x = Module.inp()
 
