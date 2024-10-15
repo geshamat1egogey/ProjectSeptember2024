@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\",
+  "WorkspaceRootPath": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|solutionrelative:MyLibrary1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|solutionrelative:MyLibrary1\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|solutionrelative:MyLibrary1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|solutionrelative:MyLibrary1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F11A9CA6-DC25-4DE8-A991-E6C91BB8CA53}|MyLibrary1\\MyLibrary1.vcxproj|solutionrelative:MyLibrary1\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pch.h",
-              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h",
+              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h",
               "RelativeDocumentMoniker": "MyLibrary1\\pch.h",
-              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h",
+              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.h",
               "RelativeToolTip": "MyLibrary1\\pch.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-10-15T16:44:48.859Z",
               "EditorCaption": ""
@@ -49,22 +49,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "pch.cpp",
-              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp",
+              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp",
               "RelativeDocumentMoniker": "MyLibrary1\\pch.cpp",
-              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp",
+              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\pch.cpp",
               "RelativeToolTip": "MyLibrary1\\pch.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-15T16:16:57.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:16:57.821Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "framework.h",
-              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h",
+              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h",
               "RelativeDocumentMoniker": "MyLibrary1\\framework.h",
-              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h",
+              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\framework.h",
               "RelativeToolTip": "MyLibrary1\\framework.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -75,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "dllmain.cpp",
-              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp",
+              "DocumentMoniker": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp",
               "RelativeDocumentMoniker": "MyLibrary1\\dllmain.cpp",
-              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp",
+              "ToolTip": "E:\\Kod\\\u0443\u043D\u0438\u043A\\ProjectSeptember2024\\c\u002B\u002B\\MyLibrary1\\MyLibrary1\\dllmain.cpp",
               "RelativeToolTip": "MyLibrary1\\dllmain.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

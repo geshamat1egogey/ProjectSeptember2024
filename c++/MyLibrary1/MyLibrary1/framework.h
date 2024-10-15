@@ -16,6 +16,7 @@ namespace MathOperation
 	{
 		public:
 			 static SUMDLL_API double FuncS(double x);
-			 static SUMDLL_API double FuncF(double x, double y);
+			 static SUMDLL_API void FuncF(double x, double y, double& f);
+			 static SUMDLL_API void FuncSF(double x, double y, double& s, double& f);
 	};
 }

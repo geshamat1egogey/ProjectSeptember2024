@@ -3,7 +3,7 @@
 #include "pch.h"
 #include <cmath>
 
-// При использовании предварительно скомпил	ированных заголовочных файлов необходим следующий файл исходного кода для выполнения сборки.
+// При использовании предварительно скомпилированных заголовочных файлов необходим следующий файл исходного кода для выполнения сборки.
 
 namespace MathOperation
 {
@@ -12,8 +12,14 @@ namespace MathOperation
 		return log(fabs(cos(x))) / log(1 + pow(x, 2));
 	}
 
-	double MyFunc::FuncF(double x, double y)
+	void MyFunc::FuncF(double x, double y, double& f)
 	{
-		return pow((x + 1) / (x - 1), x) + 18 * x * pow(y, 2);
+		f = pow((x + 1) / (x - 1), x) + 18 * x * pow(y, 2);
+	}
+
+	void MyFunc::FuncSF(double x, double y, double &s, double& f)
+	{
+		s = log(fabs(cos(x))) / log(1 + pow(x, 2));
+		f = pow((x + 1) / (x - 1), x) + 18 * x * pow(y, 2);
 	}
 }

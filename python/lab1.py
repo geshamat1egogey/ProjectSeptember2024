@@ -1,11 +1,14 @@
 import Module
 print("Введите x:")
-x = float(input())
+x = Module.inp()
 
 print("Введите y:")
-y = float(input())
+y = Module.inp()
 
-s = Module.funcS(x)
-f = Module.funcF(x, y)
+s_list = [0]
+f_list = [0]
+s_list[0] = Module.funcS(x)
+Module.funcF(x, y, f_list)
+Module.funcSF(x, y, s_list, f_list)
 
-print(s,f)
+Module.outp(s_list[0], f_list[0])
