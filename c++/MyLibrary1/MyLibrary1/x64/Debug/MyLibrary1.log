@@ -1,0 +1,12 @@
+﻿  pch.cpp
+E:\Kod\уник\c++\MyLibrary1\MyLibrary1\pch.cpp(10,17): warning C4273: MathOperation::MyFunc::FuncS: несовместимое связывание dll
+      E:\Kod\уник\c++\MyLibrary1\MyLibrary1\framework.h(18,30):
+      см. предыдущее определение "MathOperation::MyFunc::FuncS"
+  
+E:\Kod\уник\c++\MyLibrary1\MyLibrary1\pch.cpp(15,17): warning C4273: MathOperation::MyFunc::FuncF: несовместимое связывание dll
+      E:\Kod\уник\c++\MyLibrary1\MyLibrary1\framework.h(19,30):
+      см. предыдущее определение "MathOperation::MyFunc::FuncF"
+  
+  dllmain.cpp
+     Создается библиотека E:\Kod\уник\c++\SeptemberProject2024\x64\Debug\MyLibrary1.lib и объект E:\Kod\уник\c++\SeptemberProject2024\x64\Debug\MyLibrary1.exp
+  MyLibrary1.vcxproj -> E:\Kod\уник\c++\SeptemberProject2024\x64\Debug\MyLibrary1.dll
