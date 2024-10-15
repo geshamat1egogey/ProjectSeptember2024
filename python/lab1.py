@@ -1,12 +1,11 @@
-from math import *
-
+import Module
 print("Введите x:")
 x = float(input())
 
 print("Введите y:")
 y = float(input())
 
-s = log(cos(x))/log(1 + x**2)
-f = ((x + 1)/(x - 1))**x + 18*x*y**2
+s = Module.funcS(x)
+f = Module.funcF(x, y)
 
 print(s,f)
