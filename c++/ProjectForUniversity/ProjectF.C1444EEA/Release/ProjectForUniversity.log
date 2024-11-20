@@ -1,0 +1,12 @@
+﻿  lab1.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(451,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab1.cpp")
+  
+  MainPageh.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(451,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MainPageh.cpp")
+  
+  task1.cpp
+  Создание кода...
+  lab1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+LINK : fatal error LNK1561: точка входа должна быть определена

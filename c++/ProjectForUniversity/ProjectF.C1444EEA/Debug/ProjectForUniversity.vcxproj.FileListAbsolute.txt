@@ -1,0 +1,8 @@
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\Debug\MyLibrary1.pdb
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.vcxproj.AssemblyReference.cache
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.lab1.resources
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.MainPageh.resources
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.MenuPage.resources
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.task1.resources
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectForUniversity.vcxproj.GenerateResource.cache
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\ProjectF.C1444EEA\Debug\ProjectF.E9C6A321.Up2Date

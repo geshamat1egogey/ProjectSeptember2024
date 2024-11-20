@@ -1,0 +1,392 @@
+﻿  lab1.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(439,18): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,18): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,26): error C3861: FuncS: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,10): error C3861: FuncF: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,10): error C3861: FuncSF: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(450,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "lab1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "lab1.cpp")
+  
+  MainPageh.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(439,18): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,18): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,26): error C3861: FuncS: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,10): error C3861: FuncF: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,10): error C3861: FuncSF: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(450,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(246,19): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MainPageh.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MainPageh.cpp")
+  
+  MenuPage.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(439,18): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(440,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,17): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(441,25): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,18): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(447,26): error C3861: FuncS: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(448,10): error C3861: FuncF: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(449,10): error C3861: FuncSF: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(450,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(455,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(456,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(457,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(458,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(459,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(460,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(461,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(462,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,2): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\lab1.h(463,10): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(246,19): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "MenuPage.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "MenuPage.cpp")
+  
+  task1.cpp
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(246,19): error C2871: MyLibrary1: пространство имен с таким именем не существует
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(247,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(248,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,14): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(249,22): error C3861: Input: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(255,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(256,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,3): error C2653: MyFunc: не является именем класса или пространства имен
+  (компиляция исходного файла "task1.cpp")
+  
+E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\task1.h(257,11): error C3861: Output: идентификатор не найден
+  (компиляция исходного файла "task1.cpp")
+  
+  Создание кода...

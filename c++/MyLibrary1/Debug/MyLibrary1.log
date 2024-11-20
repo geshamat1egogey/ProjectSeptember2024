@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyLibrary1.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MyLibrary1.vcxproj -> E:\Kod\уник\ProjectSeptember2024\c++\ProjectForUniversity\Debug\MyLibrary1.dll
